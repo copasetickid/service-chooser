@@ -1,0 +1,23 @@
+{
+  "name": "service-chooser",
+  "authors": [
+    "Rushaine McBean <rushaine.mcbean@gmail.com>"
+  ],
+  "description": "Lets you choose a set of items afrom a list. A total price field is calculated in real-time with the aggrgate price of the services",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.0",
+    "underscore": "^1.8.3",
+    "backbone": "^1.2.3"
+  }
+}
